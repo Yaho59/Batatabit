@@ -165,6 +165,10 @@ main {
     color: var(--bitcoin-orange);
 }
 
+.main-currency-table .currency-table__title--comision{
+    color: var(--secondary-blue);
+}
+
 .currency-table__container{
     width: 90%;
     min-width: 230px;
@@ -240,6 +244,10 @@ main {
     padding: 8px;
     background-color: var(--soft-orange);
     border-radius: 8px;
+}
+
+.currency-table__date--comision{
+    background-color: var(--soft-blu);
 }
 
 .currency-table__date p{
