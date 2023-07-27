@@ -424,7 +424,7 @@ main {
 
 .plans-container__slider{
     display: flex;
-    gap: 20px;
+    gap: 10px;
     height: 316px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
@@ -435,7 +435,7 @@ main {
     position: relative;
     scroll-snap-align: center;
     width: 70%;
-    min-width: 230px;
+    min-width: 190px;
     max-width: 300px;
     height: 250px;
     margin: 50px auto 0;
@@ -479,8 +479,8 @@ main {
     position: absolute;
     font-size: 1.2rem;
     font-weight: 300;
-    top: -20px;
-    left: 60px;
+    top: -10px;
+    left: 40px;
 }
 
 .plan-card__saving {
