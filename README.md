@@ -1,5 +1,5 @@
 # BatataBit
-Sitio web creado en un curso de [platzi]() 💚🚀
+Sitio web creado en un curso de [platzi](https://platzi.com/cursos/mobile-first/) 💚🚀
 
 ## Descripción general
 
